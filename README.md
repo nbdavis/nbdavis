@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A passionate frontend developer from Colorado</h3>
+<h3 align="center">A passionate developer and aspiring machine learning engineer from Colorado</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nbdavis" alt="nbdavis" /></a> </p>
 <p><img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></p>
