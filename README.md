@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN full stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nbdavis](https://github.com/nbdavis)
+- 👨‍💻 All of my projects are available at [https://github.com/nbdavis?tab=repositories](https://github.com/nbdavis?tab=repositories)
 
 - 💬 Ask me about **Military, Energy, developer roles!**
 
