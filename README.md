@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **nbdavis@alumni.colostate.edu**
 
+- Get to know me here https://www.youtube.com/shorts/_iSqq3T5hTs
+
 - ⚡ Fun fact **I love to laugh**
 
 <h3 align="left">Connect with me:</h3>
