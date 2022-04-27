@@ -1,4 +1,4 @@
-<h1 align="center">![giphy](https://user-images.githubusercontent.com/40443960/162649719-d66a58f5-bc9f-44df-92df-9bc26c741490.gif)</h1>
+![giphy](https://user-images.githubusercontent.com/40443960/162649719-d66a58f5-bc9f-44df-92df-9bc26c741490.gif)
 
 
 <h1 align="center">Hi 👋, I'm Nick</h1>
